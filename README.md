@@ -6,5 +6,4 @@
 ### Centre: Target Image
 ### Right: Transformed Image
 
-### 
-Transformed image is formed by reflecting source image colour scheme into the target image.
+#### Transformed image is formed by reflecting source image colour scheme into the target image.
